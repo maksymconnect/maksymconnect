@@ -1,5 +1,5 @@
 ![Header](https://github.com/maksymconnect/maksymconnect/blob/main/assets/Header.png)
 
-About me
+## I'm a QA Engineer
 
 Languages and tools
