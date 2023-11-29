@@ -1,4 +1,4 @@
-![Header](https://github.com/maksymconnect/maksymconnect/blob/main/assets/Header%20logoo.gif)
+![Header](https://github.com/maksymconnect/maksymconnect/blob/main/assets/Header.gif)
 
 ## I'm a QA Engineer
 
