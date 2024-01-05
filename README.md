@@ -9,4 +9,4 @@
 ![Flutter](https://img.shields.io/badge/-mongodb-090909?style=for-the-badge&logo=mongodb)
 ![Flutter](https://img.shields.io/badge/-testrail-090909?style=for-the-badge&logo=testrail)
 ## Follow me
-[![Flutter](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=42b0f5)](www.linkedin.com/in/maksym-sysoiev)
+[![Flutter](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=42b0f5)](www.linkedin.com/in/maksym-sysoiev/)
